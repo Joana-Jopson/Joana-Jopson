@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science and all things ERP w
 🚀 About Me
 
 - 🔭 I’m currently working on Time Attendence System
-- 🌱 I’m currently learning ASP.Net
+- 🌱 I’m currently learning ASP.Net and TensorFlow
 - 👯 I’m looking to collaborate on Data Analysis based projects
 - 💬 Ask me about Python Django
 - 📫 How to reach me:[Joana](https://www.linkedin.com/in/joana-jopson)
