@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science and all things ERP w
 
 🚀 About Me
 
-- 🔭 I’m currently working on Time attendence system
+- 🔭 I’m currently working on Time Attendence System
 - 🌱 I’m currently learning ASP.Net
 - 👯 I’m looking to collaborate on Data Analysis based projects
 - 💬 Ask me about Python Django
