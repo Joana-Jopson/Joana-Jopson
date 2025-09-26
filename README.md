@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate in Data Science and all things ERP who lo
 
 🚀 About Me
 
-- 🔭 I’m currently working on Time Attendence System
+- 🔭 I’m currently working on Fraud Detection Model
 - 🌱 I’m currently learning ASP.Net and TensorFlow
 - 👯 I’m looking to collaborate on Data Analysis based projects
 - 💬 Ask me about Python Django
