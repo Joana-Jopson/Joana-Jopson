@@ -1,5 +1,5 @@
 👋 Hi, I’m @Joana-Jopson
-Welcome to my GitHub profile! I'm a passionate Data Science and all things ERP who loves building and exploring new technologies.
+Welcome to my GitHub! I'm a passionate in Data Science and all things ERP who loves building and exploring new technologies.
 
 🚀 About Me
 
